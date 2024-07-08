@@ -22,4 +22,11 @@ To break down the barriers of individual knowledge and foster a deeper, more con
 - **Security**: Prioritize the privacy and protection of user data.
 - **Community**: Build a supportive and inclusive environment for users and contributors.
 
+### Projects
+
+- [**Babel API**](https://github.com/margostino/babel-api): The gateway service for interacting with Babel data. This API processes natural language queries, searches indexed metadata, and returns relevant responses by leveraging advanced Large Language Models (LLMs).
+- [**Babel Bot**](https://github.com/margostino/babel-bot): A conversational AI bot that interacts with users to capture, store, and retrieve memories.
+- [**Babel Agent**](https://github.com/margostino/babel-agent): A daemon agent that syncs memory assets from local store to remote and keep index metadata up-to-date.
+- [**Babel CLI**](https://github.com/margostino/babel-cli): A command-line interface for managing Babel data and interacting with the Babel data.
+
 Join us in redefining the future of human connection. Explore, contribute, and be a part of the Babel Foundation. Together, we can create a tapestry of shared human experiences.
