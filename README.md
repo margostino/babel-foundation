@@ -29,10 +29,16 @@ To break down the barriers of individual knowledge and foster a deeper, more con
 - [**Babel Agent**](https://github.com/margostino/babel-agent): A daemon agent that syncs memory assets from local store to remote and keep index metadata up-to-date.
 - [**Babel CLI**](https://github.com/margostino/babel-cli): A command-line interface for managing Babel data and interacting with the Babel data.
 
+### Demo
+<!-- Embed YouTube Video -->
+<iframe width="560" height="315" src="https://youtu.be/dkvbfGB1qRE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Arthitecture
 
 <p align="center">
   <img src="./assets/babel-architecture.png" alt="Babel Foundation Architecture"/>
 </p>
+
+### Uses Cases
 
 Join us in redefining the future of human connection. Explore, contribute, and be a part of the Babel Foundation. Together, we can create a tapestry of shared human experiences.
