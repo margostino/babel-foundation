@@ -30,8 +30,8 @@ To break down the barriers of individual knowledge and foster a deeper, more con
 - [**Babel CLI**](https://github.com/margostino/babel-cli): A command-line interface for managing Babel data and interacting with the Babel data.
 
 ### Demo
-<!-- Embed YouTube Video -->
-<iframe width="560" height="315" src="https://youtu.be/dkvbfGB1qRE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[![Watch the video](https://img.youtube.com/vi/dkvbfGB1qRE/default.jpg)](https://youtu.be/dkvbfGB1qRE)
 
 ### Arthitecture
 
